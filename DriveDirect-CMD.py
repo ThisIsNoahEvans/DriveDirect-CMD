@@ -1,4 +1,3 @@
-from tkinter import Tk
 import pandas as pd
 
 #Define colours for print
