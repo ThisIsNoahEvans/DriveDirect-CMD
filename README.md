@@ -1,4 +1,8 @@
 # DriveDirect in Python (command line)
+To make this script run, please install pyperclip via the **pip install pyperclip** command
+
+If you are running Linux and you get issues with pyperclip, please follow the guide here - https://github.com/asweigart/pyperclip/blob/master/docs/introduction.rst#not-implemented-error
+
 Get a Direct Download Link to a Google Drive file through Python
 
 ### Download the latest version [here](https://github.com/ThisIsNoahEvans/DriveDirect-CMD/releases/download/v1.2/DriveDirect-CMD_1.2.py)
