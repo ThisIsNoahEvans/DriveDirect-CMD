@@ -1,7 +1,6 @@
 # DriveDirect in Python (command line)
 ## Get a Direct Download Link to a Google Drive file through Python
 
-### Download the latest version [here](https://github.com/ThisIsNoahEvans/DriveDirect-CMD/releases/download/v1.3/DriveDirect-CMD_1.3.py)
 #### Get the GUI version [here](https://github.com/ThisIsNoahEvans/DriveDirect-GUI)
 
 ## How It Works
