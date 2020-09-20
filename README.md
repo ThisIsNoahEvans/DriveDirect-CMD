@@ -2,6 +2,7 @@
 ## Get a Direct Download Link to a Google Drive file through Python
 
 #### Get the GUI version [here](https://github.com/ThisIsNoahEvans/DriveDirect-GUI)
+#### Get an iOS version [here](https://apps.apple.com/gb/app/drivedirect-for-google-drive/id1508891955)
 
 ## How It Works
 Once launched, the program requests a Google Drive sharing link. This can be found through the Link Sharing feature of Google Drive. It doesn't work with Google Docs files - only actual files with a visible file extension in Google Drive. (for example: .png files, .pdf documents, or .mp4 videos)
